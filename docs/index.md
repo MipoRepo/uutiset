@@ -4,9 +4,7 @@
 
 ## Käyttöönotto ChatGPT:ssä – tarkemmat ohjeet
 
-Tämä sivu opastaa sinua ChatGPT-ympäristössä aamukatsauksen laatimiseen käyttäen
-[materiaalia](https://sukasut.fi) sekä valmiina lähteet, tarkistussäännökset,
-kryptomarkkinan seuranta ja Bitcoinin tekniset analyysit.
+Tämä sivu opastaa sinua ChatGPT-ympäristössä aamukatsauksen laatimiseen käyttäen sekä valmiina lähteet, tarkistussäännökset, kryptomarkkinan seuranta ja Bitcoinin tekniset analyysit.
 
 ---
 
