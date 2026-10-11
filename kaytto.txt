@@ -1,0 +1,61 @@
+Käyttöönotto ChatGPT:ssä – tarkemmat ohjeet
+1. Ota prompti käyttöön
+
+Käytä edellisessä viestissä laadittua koko aamukatsauksen promptia. Se sisältää uutisosioiden lisäksi lähteet, tarkistussäännöt, kryptomarkkinoiden seurannan ja Bitcoinin teknisen analyysin.
+
+Voit valita kahdesta tavasta:
+
+Vaihtoehto A: Tavallinen keskustelu
+
+Avaa uusi keskustelu ChatGPT:ssä.
+Kopioi koko prompti ja lähetä se viestinä.
+Pyydä: "Laadi tämän ohjeistuksen mukainen aamukatsaus tämän päivän ajantasaisilla tiedoilla. Käytä verkkohakua ja merkitse lähteet."
+Tarkista tulos ja täsmennä ohjeita tarvittaessa.
+
+Vaihtoehto B: ChatGPT-projekti
+
+Avaa ChatGPT:n sivupalkista Projektit ja luo uusi projekti.
+Anna nimeksi esimerkiksi Aamukatsaus.
+Lisää koko prompti projektin ohjeisiin, jos ohjekentän pituus sallii sen. Muussa tapauksessa tallenna prompti tiedostoksi ja liitä se projektiin.
+Käynnistä projektissa uusi keskustelu ja pyydä ensimmäinen aamukatsaus.
+
+Projektin etuna on, että voit pitää aamukatsauksen ohjeet, aiemmat keskustelut ja mahdolliset vertailut samassa paikassa.
+
+2. Ota päivittäinen toimitus käyttöön
+
+Jos haluat katsauksen automaattisesti joka aamu:
+
+Tarkista, onko ChatGPT-tililläsi käytettävissä Tehtävät (Tasks) tai muu ajastustoiminto.
+Luo päivittäin toistuva tehtävä.
+Aseta ajaksi esimerkiksi klo 10.00 ja aikavyöhykkeeksi Suomen aika, jos asetukset mahdollistavat sen.
+Lisää tehtävän ohjeeksi aamukatsauksen prompti tai viittaus siihen tavalla, jota tehtävätoiminto tukee.
+Varmista ensimmäisen suorituksen jälkeen, että tehtävä todella hakee ajantasaista tietoa ja tuottaa lähteistetyn katsauksen.
+
+Huomaa: Projektin ohjeet, tavallinen keskustelu ja ajastettu tehtävä ovat eri asioita. Promptin tallentaminen projektiin ei itsessään käynnistä automaattista päivittäistä toimitusta. Myöskään verkkohakua tai kaikkia ulkoisia tietolähteitä ei pidä olettaa automaattisesti käytettäväksi jokaisessa ajastetussa suorituksessa.
+
+3. Varmista tuloksen laatu
+
+Tarkista ensimmäisistä katsauksista ainakin nämä:
+
+Uutisten julkaisupäivät ovat oikein.
+Uutisissa on suorat lähdelinkit.
+Alkuperäiset lähteet erotetaan riippumattomista lisälähteistä.
+Kryptovaluuttojen hinnat on haettu ajantasaisesta markkinadatasta.
+Bitcoinin kynttiläanalyysi perustuu oikeisiin OHLC-arvoihin.
+Aiemman päivän vertailuja ei keksitä, jos vertailutietoja ei ole tallessa.
+Puuttuvista tiedoista kerrotaan avoimesti.
+
+Jos haluat vertailla kryptovaluuttojen hintoja päivästä toiseen, varmista myös, että aiemmat havaintoarvot tallennetaan tai että ne voidaan muuten palauttaa. Pelkkä päivittäin toistuva prompti ei takaa aiempien markkina-arvojen säilymistä.
+
+4. Muokkaa katsaus omiin tarpeisiisi
+
+Voit esimerkiksi:
+
+Lisätä oman toimialasi yrityksiä seurattavaksi.
+Painottaa agenttipohjaista ohjelmistokehitystä ja DevSecOpsia.
+Rajata yleiset uutiset viiteen tärkeimpään.
+Lisätä työpaikkailmoitusten ja teknologia-alan rekrytointien seurannan.
+Muuttaa Bitcoin-analyysin viikko- ja kuukausipainotusta.
+Poistaa aiheet, jotka eivät ole sinulle hyödyllisiä.
+
+Näin aamukatsauksesta tulee yleisen uutiskoosteen sijaan omaa oppimista ja päätöksentekoa tukeva työkalu.

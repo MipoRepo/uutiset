@@ -1,0 +1,26 @@
+site_name: Aamukatsaus
+site_description: ChatGPT-ohjeet aamukatsauksen laatimiseen
+docs_dir: docs
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    primary: indigo
+    accent: indigo
+markdown_extensions:
+  - admonition
+  - footnotes
+  - meta
+  - pymdownx.arithmatex
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - toc:
+      permalink: true
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com
